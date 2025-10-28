@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Pranav Bijapur 👋
 
-<!--
-**PranavBijapur/PranavBijapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer from Melbourne who loves building meaningful software and constantly learning new tech.
 
-Here are some ideas to get you started:
+💡 Passionate about backend development, cloud computing, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack: C# · .NET · React · Node.js · AWS · Azure · SQL
+
+📈 On a journey to become a full-stack cloud developer — one project at a time.
+
+🌱 Learning: Azure Cloud, DevSecOps, and API-first principles
+
+📬 Reach me at: LinkedIn
